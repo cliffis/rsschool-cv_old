@@ -1,14 +1,14 @@
 # Seriakov Igor
 
-![foto](https://github.com/cliffis/rsschool-cv/blob/gh-pages/foto.jpg)
+![foto](https://github.com/cliffis/rsschool-cv/blob/gh-pages/foto_small.jpg)
 
 ## Contact information:
 
-##### Tel: +36-20-263-5386
-##### E-Mail: cliffis@yandex.ru
-##### Discord: Igor Seriakov (@cliffis)
-##### [Telegram](https://t.me/Igor_UC)
-##### [LinkedIn](https://www.instagram.com/uc_cliffis/)
+###### Tel: +36-20-263-5386
+###### E-Mail: cliffis@yandex.ru
+###### Discord: Igor Seriakov (@cliffis)
+###### [Telegram](https://t.me/Igor_UC)
+###### [LinkedIn](https://www.instagram.com/uc_cliffis/)
 
 ---
 
@@ -20,26 +20,26 @@
 
 ## Work experience
 
-##### **August 2021 – Until now**
-##### **TITAN-2 CONCERN JSC, Paks-2**
-##### **Position:** Chief Specialist
+###### **August 2021 – Until now**
+###### **TITAN-2 CONCERN JSC, Paks-2**
+###### **Position:** Chief Specialist
 
 +	Creation of branch telecommunications infrastructure from scratch: purchase of equipment, deployment of IT services, development of Windows and Linux OS servers, mail and domain systems. 
 +	Purchase and setup of office equipment for the organization of office workplaces. 
 +	Development of an information portal written in Python.
 
-##### **August 2019 – August 2021**
-##### **JSC ASE EC branch in Hungary (Rosatom)**
-##### **Position:** IT Expert
+###### **August 2019 – August 2021**
+###### **JSC ASE EC branch in Hungary (Rosatom)**
+###### **Position:** IT Expert
 
 +	Planning, optimization and execution of the branch IT and technical budget and tasks.
 +	Development and administration of the branch server and telecommunications infrastructure: administration of Windows and Linux OS servers; administration of virtualization systems, mail and domain systems; regular updating and implementation of new software. 
 +	Implementation of a project to monitor the status of the server and telephone infrastructure of the branch based on Nagios software with information in Telegram or by e-mail.
 +	Development and coding of a corporate portal (telephone directory linked to AD, automatic creation of configuration files for Yealink phones, monitoring and management of audio conferences (using Asterisk AMI), users’ personal accounts based on Python (Flask), JavaScript, html (jinja2), css.
 
-##### **February 2006 – August 2019**
-##### **JSC ASE EC (Rosatom)**
-##### **Position:** Corporate system resources management expert 
+###### **February 2006 – August 2019**
+###### **JSC ASE EC (Rosatom)**
+###### **Position:** Corporate system resources management expert 
 
 +	Development and administration of telecommunications infrastructure of the head office and branches;
 +	Implementation of direct management of employees in the head office and branches of JSC ASE EC setting up and monitoring of employees’ tasks;
@@ -47,15 +47,15 @@
 +	Maintaining the qualifications of IT specialists of the department, submitting applications for training;
 +	Planning, optimization and execution of the telecommunications budget of the head office and branches.
 
-##### **April 2005 - February 2006**
-##### **D-Link, Nizhny Novgorod**
-##### **Position:** Project Consultant, Technical support.
+###### **April 2005 - February 2006**
+###### **D-Link, Nizhny Novgorod**
+###### **Position:** Project Consultant, Technical support.
 
 +	Development of projects for customers, technical customer support for D-Link equipment (Switches, Routers, Firewalls, Wireless, xDSL Products, VoIP, Multimedia, etc.), equipment testing.
 
-##### **1999 - April 2005**
-##### **FSUE "ATOMENERGOPROEKT"**
-##### **Position:** IT engineer
+###### **1999 - April 2005**
+###### **FSUE "ATOMENERGOPROEKT"**
+###### **Position:** IT engineer
 
 +	Technical development and support of the enterprise LAN, PBX Meridian1/Succession 1000M of the enterprise, organization of data backup. Training.
 
@@ -63,12 +63,12 @@
 
 ## Knowledge and skills
 
-##### **Servers:** Windows, Centos, Debian, Ubuntu
-##### **Video and audio servers:** CUCM, IM&P, CMS, CMM, Expressway-C / E, Prime, Polycom Clariti, RMX, RPRM, DMA, RPAD, Media Suite, Content Connect, Asterisk, BigBlueButton and others.
-##### **Virtualization:** VMWare, Docker.
-##### **Programming languages:** Python (Flask), perl, bash, html, ccs, JavaScript.
-##### **DB:** PostgreSQL, MySQL, etc.
-##### **Network equipment:** Cisco, HP, D-Link, etc.
+###### **Servers:** Windows, Centos, Debian, Ubuntu
+###### **Video and audio servers:** CUCM, IM&P, CMS, CMM, Expressway-C / E, Prime, Polycom Clariti, RMX, RPRM, DMA, RPAD, Media Suite, Content Connect, Asterisk, BigBlueButton and others.
+###### **Virtualization:** VMWare, Docker.
+###### **Programming languages:** Python (Flask), perl, bash, html, ccs, JavaScript.
+###### **DB:** PostgreSQL, MySQL, etc.
+###### **Network equipment:** Cisco, HP, D-Link, etc.
 
 ------
 
