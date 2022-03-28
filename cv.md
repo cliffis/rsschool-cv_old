@@ -1,6 +1,6 @@
 # Seriakov Igor
 
-![foto](https://github.com/cliffis/rsschool-cv/blob/gh-pages/foto_small.jpg)
+![photo](https://github.com/cliffis/rsschool-cv/blob/gh-pages/foto_small.jpg)
 
 ## Contact information:
 
