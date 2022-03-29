@@ -1,1 +1,1 @@
-https://cliffis.github.io/rsschool-cv/cv
+https://cliffis.github.io/rsschool-cv/
